@@ -2,6 +2,19 @@
 
 # VS Code에서 Python 프로젝트를 생성
 
+# 프로젝트 구조
+
+C:.
+│  README.md
+│  
+├─doc
+│  └─images
+│          capture1.png
+│          capture2.png
+│
+└─src
+        app.py
+
 # 1. 첫 번째 commit: src/app.py 작성 ADD [컴퓨터 공학 활용은 최고입니다.]
 # 2. 두 번째 commit: MODIFY: [2501077 박하의 꽈제입니다.]
 # 3. 세 번째 commit: FIX: [2501077 박하의 과제입니다로 수정]
